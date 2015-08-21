@@ -1,5 +1,8 @@
 ## Coursera Getting and Cleaning Data Course Project
 
+## Sinan
+## 2015-21-08
+
 # runAnalysis.r File Description:
 
 # This script will perform the following steps on the UCI HAR Dataset downloaded from 
@@ -17,22 +20,11 @@
 # 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 
-
-
 ##########################################################################################################
-
-
-
-
-
-
 
 # Clean up workspace
 
 rm(list=ls())
-
-
-
 
 # 1. Merge the training and the test sets to create one data set.
 
