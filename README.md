@@ -1,6 +1,6 @@
 ## Coursera Getting and Cleaning Data Course Project
 
-# runAnalysis.r File Description:
+### runAnalysis.r File Description:
 
 # This script will perform the following steps on the UCI HAR Dataset downloaded from 
 
